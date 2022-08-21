@@ -1,0 +1,54 @@
+https://www.offensive-security.com/reports/penetration-testing-sample-report-2013.pdf
+
+
+https://www.offensive-security.com/reports/penetration-testing-sample-report-2013.pdf
+
+
+https://www.ijcaonline.org/archives/volume156/number6/gawhale-2016-ijca-912531.pdf
+https://www.getastra.com/blog/security-audit/penetration-testing-report/
+
+Top 5 penetration testing tools in Kali Linux -  https://resources.infosecinstitute.com/topic/kali-linux-top-5-tools-for-penetration-testing-reporting/
+
+How to write a penetration testing report - https://www.youtube.com/watch?v=J34DnrX7dTo
+
+IMPORTANT - https://attack.mitre.org/
+
+Top 20 Breach and Attack Simulation (BAS) Vendors for 2022 - https://www.esecurityplanet.com/products/breach-and-attack-simulation-bas-vendors/
+
+Python  -  https://docs.python.org/3/
+
+-------------
+
+
+
+1) For next assignment...we have to do VA & PT on Windows & Ubuntu...........do we have to do it on labs VMs only or could we do it against our personal VMs & Laptop? Labs VMs are ver slow and we do not have easy option to copy text from VM to local..........
+
+2) What tools are recommended to be used?
+
+3) Any helpful reference website
+
+Nmap
+Burpsuite
+Nessus
+Nikto
+Metasploit
+Hydra
+Qualiys
+Zenmap
+OWASP ZAP
+recon-ng
+OSINT
+Man in middle attack with Wireshark
+Social engineering with SETOOLKIT
+nslookup
+Enum
+
+Sample reports and data sheets 
+
+https://nabard.org/demo/auth/writereaddata/tender/0612165321RFP%20for%20VAPT.pdf
+https://www.getastra.com/blog/security-audit/penetration-testing-report/
+https://www.pivotpointsecurity.com/wp-content/uploads/2016/10/Sample-Report-Network-VAPT.pdf
+https://databrackets.com/wp-content/uploads/2022/01/VAPT-Datasheet.pdf
+
+https://underdefense.com/wp-content/uploads/2021/09/Anonymized-Web-application-penetration-testing-report.pdf
+
